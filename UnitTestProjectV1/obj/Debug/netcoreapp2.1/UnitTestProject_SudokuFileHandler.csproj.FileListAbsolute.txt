@@ -1,0 +1,17 @@
+D:\Assignment1_final\UnitTestProjectV1\obj\Debug\netcoreapp2.1\UnitTestProject_SudokuFileHandler.csprojAssemblyReference.cache
+D:\Assignment1_final\UnitTestProjectV1\obj\Debug\netcoreapp2.1\UnitTestProject_SudokuFileHandler.csproj.CoreCompileInputs.cache
+D:\Assignment1_final\UnitTestProjectV1\obj\Debug\netcoreapp2.1\UnitTestProject_SudokuFileHandler.AssemblyInfoInputs.cache
+D:\Assignment1_final\UnitTestProjectV1\obj\Debug\netcoreapp2.1\UnitTestProject_SudokuFileHandler.AssemblyInfo.cs
+D:\Assignment1_final\UnitTestProjectV1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Assignment1_final\UnitTestProjectV1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Assignment1_final\UnitTestProjectV1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Assignment1_final\UnitTestProjectV1\bin\Debug\netcoreapp2.1\UnitTestProject_SudokuFileHandler.deps.json
+D:\Assignment1_final\UnitTestProjectV1\bin\Debug\netcoreapp2.1\UnitTestProject_SudokuFileHandler.runtimeconfig.json
+D:\Assignment1_final\UnitTestProjectV1\bin\Debug\netcoreapp2.1\UnitTestProject_SudokuFileHandler.runtimeconfig.dev.json
+D:\Assignment1_final\UnitTestProjectV1\bin\Debug\netcoreapp2.1\UnitTestProject_SudokuFileHandler.dll
+D:\Assignment1_final\UnitTestProjectV1\bin\Debug\netcoreapp2.1\UnitTestProject_SudokuFileHandler.pdb
+D:\Assignment1_final\UnitTestProjectV1\bin\Debug\netcoreapp2.1\Sudoku.dll
+D:\Assignment1_final\UnitTestProjectV1\bin\Debug\netcoreapp2.1\Sudoku.pdb
+D:\Assignment1_final\UnitTestProjectV1\obj\Debug\netcoreapp2.1\UnitTestProject_SudokuFileHandler.csproj.CopyComplete
+D:\Assignment1_final\UnitTestProjectV1\obj\Debug\netcoreapp2.1\UnitTestProject_SudokuFileHandler.dll
+D:\Assignment1_final\UnitTestProjectV1\obj\Debug\netcoreapp2.1\UnitTestProject_SudokuFileHandler.pdb
